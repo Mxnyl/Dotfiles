@@ -15,4 +15,4 @@ i use a black and white theme
 
 ## Requirements to ensure the proper functioning of the configs
 
-[I'll do the rest later:/]
+[I'll do the rest later]
